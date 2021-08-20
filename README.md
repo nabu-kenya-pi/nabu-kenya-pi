@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nabu-kenya-pi
+- 👋 Hallo, I’m @nabu-kenya-pi
 - 👀 I’m interested in web development and Android app development 
 - 🌱 I’m currently learning kotlin language for app development 
 - 💞️ I’m looking forward to challenging projects for progress 
